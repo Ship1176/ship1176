@@ -1,6 +1,7 @@
 - 👋 Hi, we're @Ship1176
 - We are a ship of sea scouts based in Springfield, VA
 - This is a website that holds information for the ship
+- We are a ship of 5 scouts with 4 adult leaders
 
 <!---
 Ship1176/Ship1176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
